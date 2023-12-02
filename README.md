@@ -1,14 +1,14 @@
 # WIP, software yet to come
 
----
+# Advanced Cyber Security and Education Device - SUPERIOR BOY
 
-# Story
+## Story
 
 <div align="center">
     <img src="https://hackster.imgix.net/uploads/attachments/1642390/sb_wrBBjyZA5n.png?auto=compress%2Cformat&w=740&h=555&fit=max" alt="logo">
 </div>
 
-# 🌟 About the Project
+## 🌟 About the Project
 
 Superior Boy is a versatile device that combines the power of RP2040 and ESP32 microcontrollers. It is designed to meet the needs of cybersecurity experts on the go, offering a wide range of hardware features. With Superior Boy, you get Wi-Fi (ESP32), Bluetooth (ESP32), Sub-1 GHz transceiver (CC1101), 2.4 GHz transceiver (NRF24), NFC/RFID (PN532), Infrared transceiver-receiver, 9-Axis Gyroscope (MPU9250), Barometer (BMP280), MicroSD card support, a display (ST7735sTFTRGBScreen), and a control unit. The device also provides customizable software, interfaces, and GPIO pins, allowing easy integration of development boards and software.
 
